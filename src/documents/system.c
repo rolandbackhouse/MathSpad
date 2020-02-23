@@ -43,6 +43,7 @@
 #include "funcs.h"
 #include "sources.h"
 #include "config.h"
+#include "mpconfig.h"
 
 #define USERDIR "mathspad" DIRSEPSTR
 #define LATEXDIR "latex"   DIRSEPSTR
