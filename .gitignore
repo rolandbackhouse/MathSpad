@@ -1,0 +1,7 @@
+*~
+*.o
+*.lo
+*.pcf
+*.la
+.libs
+Makefile

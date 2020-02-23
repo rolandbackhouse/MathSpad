@@ -1,4 +1,5 @@
 #include <config.h>
+#include <mpconfig.h>
 #include "uniconv.h"
 #include "unistring.h"
 #include "unimap.h"

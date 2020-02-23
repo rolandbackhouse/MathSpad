@@ -3,6 +3,7 @@
 */
 
 #include <config.h>
+#include <mpconfig.h>
 #include <stdlib.h>
 #include <stdio.h>
 #include <string.h>

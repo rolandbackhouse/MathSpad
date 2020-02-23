@@ -83,7 +83,7 @@ dnl Checks for library functions.
 AC_FUNC_MEMCMP
 AC_TYPE_SIGNAL
 AC_CHECK_FUNCS(getcwd mkdir putenv strdup strerror strstr strtol)
-AC_CHECK_LIB(mp, pow, AC_DEFINE(HAVE_POW_IN_LIBMP))
+AC_CHECK_LIB(mp, pow, AC_DEFINE([HAVE_POW_IN_LIBMP],[],[description]))
 
 
 MAKE_RULES=Make.rules

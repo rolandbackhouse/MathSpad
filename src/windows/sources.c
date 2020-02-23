@@ -57,6 +57,7 @@
 #include <pwd.h>
 #include <unistd.h>
 #include "config.h"
+#include "mpconfig.h"
 #include "keyboard.h"
 
 FUNCTIONS nowindowfunc = { NULL } ;
