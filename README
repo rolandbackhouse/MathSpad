@@ -96,3 +96,12 @@ as soon as possible.
 
 
 Richard Verhoeven.
+
+2/1/2026 
+
+Segmentation problems when trying to run mathspad on 64-bit virtual machine resolved by executing 
+cd src/unicode
+cat latexmath.ascii | strasciitomap > latexmath.map
+
+Roland Backhouse
+
