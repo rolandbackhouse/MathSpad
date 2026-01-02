@@ -11,5 +11,8 @@ Make.rules
 /config.log
 /config.status
 /configure
+/config.guess 
+/config.sub 
+/install-sh 
 /libtool
 /ltmain.sh
