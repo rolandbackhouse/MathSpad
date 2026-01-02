@@ -21,9 +21,10 @@ you want to use a different location.
 If you don't want the message to be sent or you are more familiar
 with the GNU configure scripts, you can use the usual sequence:
 
+	autoreconf -fvi
 	./configure
 	make all
-	make install
+	sudo make install
 
 
 Testing
